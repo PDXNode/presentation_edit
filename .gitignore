@@ -4,19 +4,19 @@
 /Adobe Premiere Pro Audio Previews
 
 # Sony AVCHD Media Files
-.bdm
-.cpi
-.mpl
-.mts
-.bnp
-.inp
-.int
-.bin
+*.bdm
+*.cpi
+*.mpl
+*.mts
+*.bnp
+*.inp
+*.int
+*.bin
 
 # Common (large) audio files
-.wav
+*.wav
 
 # Other common video files
-.avi
-.mp4
-.mov
+*.avi
+*.mp4
+*.mov
