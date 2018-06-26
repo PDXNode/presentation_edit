@@ -3,3 +3,7 @@
 <twitter>
 https://github.com/<github>
 <website>
+
+<YouTube Description>
+
+Recorded on: <Recorded Date>
