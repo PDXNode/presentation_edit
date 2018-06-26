@@ -9,6 +9,7 @@
 *.mpl
 *.mts
 *.bnp
+*.ind
 *.inp
 *.int
 *.bin
